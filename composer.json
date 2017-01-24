@@ -1,5 +1,5 @@
 {
-    "name": "quangtam/FacebookMessenger",
+    "name": "quangtam/messenger",
     "description": "Component to allow the comunication between messenger bot and your application.",
     "license": "MIT",
     "authors": [
@@ -21,6 +21,7 @@
             "Distilleries\\Messenger\\": "src/Distilleries/Messenger"
         }
     },
+    "minimum-stability": "stable",
     "require-dev": {
         "orchestra/database": "~3.2",
         "orchestra/testbench": "~3.2",
