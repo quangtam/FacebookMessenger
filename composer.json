@@ -21,7 +21,6 @@
             "Distilleries\\Messenger\\": "src/Distilleries/Messenger"
         }
     },
-    "version": "1.0.2",
     "require-dev": {
         "orchestra/database": "~3.2",
         "orchestra/testbench": "~3.2",
