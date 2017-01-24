@@ -1,5 +1,5 @@
 {
-    "name": "quangtam/messenger",
+    "name": "quangtam/FacebookMessenger",
     "description": "Component to allow the comunication between messenger bot and your application.",
     "license": "MIT",
     "authors": [
